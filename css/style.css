@@ -39,6 +39,10 @@ p{
 img{
     width: 100%;
 }
+.hidden{
+    visibility: none;
+    height: 0;
+}
 
 /* Navbar-styles */
 
